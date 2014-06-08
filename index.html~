@@ -10,13 +10,13 @@
 
 	<div>
 	Imię:
-	<input type="text" id="name" name="name"></input>
+	<input type="text" id="name" name="name" value="name"></input>
 	<span class="error">To pole nie może być puste</span>
 	</div>
 
 	<div>
 	Email:
-	<input type="email" id="email" name="email"></input>
+	<input type="email" id="email" name="email" value="a@a"></input>
 	<span class="error">Adres e-mail powinien być w poprawnej formie np. jkowal@domena</span>				
 	</div>
 

@@ -29,7 +29,7 @@ input.invalid, textarea.invalid{
 input.valid, textarea.valid{
 	border: solid green;
 }
-.resultok {
+.result {
 	display: none;
 }
 </style>
